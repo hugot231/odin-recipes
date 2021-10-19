@@ -1,3 +1,9 @@
 li{
 	padding-bottom: 10px;
 }
+body{
+	background-image: url("../img/y-so-serious-white.png");
+}
+a:visited {
+    color: #002bb8;
+}
